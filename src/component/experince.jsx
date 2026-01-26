@@ -25,15 +25,23 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      title: "Tech Mentor",
-      company: "Kalvium",
-      date: "October 2023 - Present", // Updated based on your input
+      title: "Software Developer",
+      company: "Metaphi",
+      date: "September 2025 - Present", // Updated based on your input
       description: [
-        "Provide hands-on MERN Stack development expertise and mentor BCA/B.Tech students in Web Development, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).",
-        "Deliver engaging live instructional sessions, offer comprehensive project guidance, and conduct thorough code reviews providing personalized, constructive feedback.",
-        "Contributed significantly to company products, including the development of the Student Profile UI on the Livebooks platform, ensuring a responsive and user-friendly interface.",
-        "Spearheaded the development of multiple real-world projects, including a Durga Puja community website with donation tracking, a Cloudinary-based donation management system, a personal portfolio website, and a MERN-stack live streaming application.",
-        "Proficiently utilized a tech stack comprising React.js, Node.js, Express.js, MongoDB, Chakra UI, Redux."
+        "Developed and maintainedcustom ERP (Enterprise Resource Planning) web application using the MERN stack to manage business operations such as inventory, sales, purchases, and product management"
+   ] },
+    {
+      id: 2,
+      title: "MERN Developer",
+      company: "Kalvium",
+      date: "October 2023 - June 2025", // Updated based on your input
+      description: [
+        "Developed and maintained full-stack web applications utilizing MERN stack technologies.",
+        "Designed responsive, user-friendly interfaces, including a comprehensive redesign of Student Profile UI.",
+        "Collaborated in code reviews to ensure maintainable and scalable code quality.",
+        "Debugged application performance issues across frontend and backend component spearheaded the development of multiple real-world projects.",
+        "Integrated RESTful APIs to enhance full-stack features for internal platforms."
       ],
     }
   ];

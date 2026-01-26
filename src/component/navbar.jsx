@@ -10,7 +10,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 
 import { RxCross2 } from "react-icons/rx";
 
-import resume from "../Resume/Uddeshy_2025.pdf";
+import resume from "../Resume/Uddeshy.pdf";
 
 import { useRef, useState } from "react";
 
