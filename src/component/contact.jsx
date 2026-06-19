@@ -55,7 +55,7 @@ const Contect = () => {
                         </a>
                     </Box>
                     <Box>
-                        <a href="https://wa.me/918808346600" target="_blank">
+                        <a href="https://wa.me/918808346600" target="">
                             <div>
                                 <ImWhatsapp size="50%" />
                             </div>
