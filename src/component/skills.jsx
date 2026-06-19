@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Flex, Heading, SimpleGrid, Stack } from "@chakra-ui/react"
+import { Box, Flex, Heading, SimpleGrid } from "@chakra-ui/react"
 import { FaReact } from "react-icons/fa"
 import { FaHtml5 } from "react-icons/fa"
 import { DiCss3 } from "react-icons/di"

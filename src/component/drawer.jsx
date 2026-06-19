@@ -1,7 +1,7 @@
-import { Box, Button, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerFooter, DrawerHeader, DrawerOverlay, IconButton, Input, Link, Stack, useDisclosure, VStack } from '@chakra-ui/react'
+import { Box, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerHeader, DrawerOverlay, IconButton, Input, Link, Stack, useDisclosure, VStack } from '@chakra-ui/react'
 import React, { useRef } from 'react'
 import resume from "../Resume/Uddeshy.pdf";
-import { CloseIcon, HamburgerIcon, Search2Icon, } from "@chakra-ui/icons";
+import {  HamburgerIcon, } from "@chakra-ui/icons";
 
 const HamMenu = () => {
   const { isOpen, onOpen, onClose } = useDisclosure()

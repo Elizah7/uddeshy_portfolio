@@ -6,32 +6,23 @@ import { Projects } from "./projects";
 
 import { Skills } from "./skills";
 
-import { GiHamburgerMenu } from "react-icons/gi";
 
-import { RxCross2 } from "react-icons/rx";
 
 import resume from "../Resume/Uddeshy.pdf";
 
-import { useRef, useState } from "react";
+
 
 import {
   Box,
   Button,
-  Drawer,
-  DrawerBody,
-  DrawerCloseButton,
-  DrawerContent,
-  DrawerFooter,
-  DrawerHeader,
-  DrawerOverlay,
+
   Flex,
   HStack,
   Image,
-  Input,
-  Stack,
-  useDisclosure,
+ 
+  
   Link,
-  Heading,
+  
 } from "@chakra-ui/react";
 
 import HamMenu from "./drawer";
@@ -42,9 +33,9 @@ import { FiDownload } from "react-icons/fi";
 import { Experience } from "./experince";
 
 const NavbarLink = () => {
-  const { isOpen, onOpen, onClose } = useDisclosure();
+ 
 
-  const btnRef = useRef();
+
 
   const hadleClick = () => {
     window.open(resume);

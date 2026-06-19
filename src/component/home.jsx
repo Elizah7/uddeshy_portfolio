@@ -1,4 +1,4 @@
-import { Box, Button, Heading, Image, Link, Stack, Text } from "@chakra-ui/react";
+import { Box, Button, Heading, Image, Link, Text } from "@chakra-ui/react";
 import React from "react";
 import resume from "../Resume/Uddeshy.pdf";
 import { FiDownload } from "react-icons/fi";

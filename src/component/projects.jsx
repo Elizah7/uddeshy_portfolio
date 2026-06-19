@@ -35,13 +35,13 @@ const Projects = () => {
     { img: "https://user-images.githubusercontent.com/112868723/238127842-85efccec-63ea-4dca-9e5b-732f1a3b1923.png" },
     { img: "https://user-images.githubusercontent.com/112868723/238128024-de86f3f9-527d-4e2a-9c98-fd937b413a8d.png" }
   ]
-  const divStyle = {
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundSize: 'cover',
-    height: '400px'
-  }
+  // const divStyle = {
+  //   display: 'flex',
+  //   alignItems: 'center',
+  //   justifyContent: 'center',
+  //   backgroundSize: 'cover',
+  //   height: '400px'
+  // }
   return (
     <>
 

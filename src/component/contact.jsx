@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { GrLinkedin } from "react-icons/gr"
 import { GoMarkGithub } from "react-icons/go"
-import { SiMinutemailer } from "react-icons/si"
+
 import { ImWhatsapp } from "react-icons/im"
 import emailjs from 'emailjs-com';
 import { Box, FormLabel, Heading, HStack, Input, useToast } from "@chakra-ui/react";
