@@ -47,7 +47,7 @@ const About = () => {
             A Full Stack MERN Developer
           </Heading>
           <Text fontSize={["md", "lg"]} color="gray.600">
-            I am a Full Stack Web Developer with over 1200+ hours of coding experience, creating dynamic and responsive web applications. I have a strong background in front-end and back-end development, working with technologies like HTML, CSS, JavaScript, React, Redux, and APIs. 
+           Results-driven Full Stack Developer with hands-on experience in building scalable MERN stack applications, ERP systems, and responsive web platforms. Skilled in React.js, Node.js, MongoDB, Express.js, and RESTful API integration. Experienced in developing user-centric applications, improving UI/UX, debugging performance issues, and collaborating in agile teams. Familiar with modern AI-assisted development tools including Cursor AI, Antigravity, and Codex Agent. Passionate about building high-performance web applications and solving complex technical problems.
             <br /><br />
             I am always keen on learning new technologies and staying updated with the latest trends in web development to deliver better solutions. My goal is to create efficient, user-friendly web applications with clean, scalable code.
           </Text>

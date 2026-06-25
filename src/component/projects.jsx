@@ -70,8 +70,8 @@ const Projects = () => {
                 </Box>
               </Box>
               <Box marginTop={["10px", "10px", "60px", "70px"]} className="live-button">
-                <a href="https://github.com/KoushikNiyogi/Daily-objects-clone" target="next-page" className="project-github-link">Github</a>
-                <a href="https://daily-essential-koushikniyogi.vercel.app" target="next-page" className="project-deployed-link">Live server</a>
+                <a href="https://github.com/KoushikNiyogi/Daily-objects-clone" target="_blank" rel="noopener noreferrer" className="project-github-link">Github</a>
+                <a href="https://daily-essential-koushikniyogi.vercel.app" target="_blank"  rel="noopener noreferrer" className="project-deployed-link">Live server</a>
               </Box  >
             </Box>
             <Box className="slide-container" width={["100%", "100%", "50%", "50%"]} height={["40%", "40%", "100%", "99%"]}>
@@ -118,8 +118,8 @@ const Projects = () => {
                 </Box>
               </Box>
               <Box className="live-button" marginTop={["10px", "10px", "60px", "40px"]} >
-                <a href="https://github.com/Channa47/debonair-salt-5814" target="next-page" className="project-github-link">Github</a>
-                <a href="https://devtv.netlify.app" target="next-page" className="project-deployed-link">Live server</a>
+                <a href="https://github.com/Channa47/debonair-salt-5814" target="_blank" rel="noopener noreferrer" className="project-github-link">Github</a>
+                <a href="https://devtv.netlify.app" target="_blank" rel="noopener noreferrer" className="project-deployed-link">Live server</a>
               </Box>
             </Box>
           </Box>
@@ -142,8 +142,8 @@ const Projects = () => {
                 </Box>
               </Box>
               <Box marginTop={["10px", "10px", "60px", "40px"]} className="live-button">
-                <a href="https://github.com/Navneetcode1/animated-plants-4461" target="next-page" className="project-github-link">Github</a>
-                <a href="https://fashionmantra.vercel.app/" target="next-page" className="project-deployed-link">Live server</a>
+                <a href="https://github.com/Navneetcode1/animated-plants-4461" target="_blank" rel="noopener noreferrer" className="project-github-link">Github</a>
+                <a href="https://fashionmantra.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-deployed-link">Live server</a>
               </Box  >
             </Box>
             <Box className="slide-container" width={["100%", "100%", "50%", "50%"]} height={["40%", "40%", "100%", "99%"]}>
@@ -194,8 +194,8 @@ const Projects = () => {
                 </Box>
               </Box>
               <Box className="live-button" marginTop={["60px", "10px", "60px", "70px"]} >
-                <a href="https://github.com/Prashant1562/IndustryBuying-Clone" target="next-page" className="project-github-link">Github</a>
-                <a href="https://soft-dogs-2567.netlify.app/" target="next-page" className="project-deployed-link">Live server</a>
+                <a href="https://github.com/Prashant1562/IndustryBuying-Clone"target="_blank" rel="noopener noreferrer" className="project-github-link">Github</a>
+                <a href="https://soft-dogs-2567.netlify.app/" target="_blank" rel="noopener noreferrer" className="project-deployed-link">Live server</a>
               </Box>
             </Box>
           </Box>
