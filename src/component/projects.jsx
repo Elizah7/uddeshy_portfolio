@@ -143,7 +143,7 @@ const Projects = () => {
               </Box>
               <Box marginTop={["10px", "10px", "60px", "40px"]} className="live-button">
                 <a href="https://github.com/Navneetcode1/animated-plants-4461" target="_blank" rel="noopener noreferrer" className="project-github-link">Github</a>
-                <a href="https://fashionmantra.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-deployed-link">Live server</a>
+                <a href="https://newfashionmantra.netlify.app/" target="_blank" rel="noopener noreferrer" className="project-deployed-link">Live server</a>
               </Box  >
             </Box>
             <Box className="slide-container" width={["100%", "100%", "50%", "50%"]} height={["40%", "40%", "100%", "99%"]}>
